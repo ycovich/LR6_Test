@@ -1,0 +1,4 @@
+rootProject.name = 'LR6_Test'
+
+include 'application'
+
